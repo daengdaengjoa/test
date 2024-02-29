@@ -2,7 +2,7 @@ import random
 
 d = random.randint(1,100)
 a = random.randint(1,23)
-c = random.randint(1,231233)
+c = random.randint(1,23)
 e = random.randint(1,2333)
 asdasd = 12345
 da = 1123
